@@ -1,0 +1,12 @@
+#cell1{
+    vertical-align:top;
+    width:50px;
+  }
+  #cell2{
+    vertical-align:top;
+    padding-left:50px;
+  }
+  .sectionHead{
+    background-color: black;
+    color: white;
+  }
